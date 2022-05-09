@@ -54,13 +54,9 @@ function App() {
           </div>
         </section>
       </main>
-
     </div>
     
       
-      <button onClick={() => setDarkMode(!darkMode)}>
-        Change {darkMode ? "Light" : "Dark"} Color
-      </button>
     </div>
     
 
